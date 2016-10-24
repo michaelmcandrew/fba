@@ -1,0 +1,5 @@
+drupal/sites/default/civicrm.settings.php
+drupal/sites/all/civicrm_extensions/cache
+scout/packages
+scout/imports
+scout/ENV
